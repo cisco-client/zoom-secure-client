@@ -1,4 +1,4 @@
-**Zoom: Seamless Video Meetings and Chat**
+**Zoom Secure Client: Seamless Video Meetings and Chat**
 
 Zoom is a leading video communication platform designed to facilitate seamless virtual meetings, webinars, and collaboration for individuals, teams, and organizations of all sizes. This versatile software is widely recognized for its ease of use, high-quality video and audio, and robust feature set, making it a trusted solution for remote communication, online education, telehealth, and more.
 
